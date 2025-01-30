@@ -417,10 +417,8 @@ transform: translateY(0);
 }
 .con-footer{
   display: flex;
-}
-.con-disc-footer{
-    align-items: baseline;
-      margin-right: 120px;
+  align-items: baseline;
+  margin-right: 120px;
 }
 .tittle-footer{
   font-style: normal;
