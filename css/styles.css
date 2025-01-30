@@ -418,6 +418,8 @@ transform: translateY(0);
 .con-footer{
   display: flex;
   align-items: baseline;
+}
+.con-disc-footer{
   margin-right: 120px;
 }
 .tittle-footer{
