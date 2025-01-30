@@ -283,7 +283,7 @@ margin-bottom: 8px;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
 }
 
 .social-icon{
@@ -303,10 +303,10 @@ cursor: pointer;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-link:hover{
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
 .social-link:focus{
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 .list-tech{
   display: flex;
