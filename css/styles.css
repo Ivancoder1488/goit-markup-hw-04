@@ -417,8 +417,10 @@ transform: translateY(0);
 }
 .con-footer{
   display: flex;
-  align-items: baseline;
-  margin-right: 120px;
+}
+.con-title-our{
+    align-items: baseline;
+      margin-right: 120px;
 }
 .tittle-footer{
   font-style: normal;
