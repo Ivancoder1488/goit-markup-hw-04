@@ -418,7 +418,7 @@ transform: translateY(0);
 .con-footer{
   display: flex;
 }
-.container-con-footer{
+.con-disc-footer{
     align-items: baseline;
       margin-right: 120px;
 }
