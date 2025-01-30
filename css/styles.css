@@ -380,7 +380,7 @@ transition-property: box-shadow;
 transition-duration: 250ms;
 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.item-our:hover .overlay, .item-our:focus .overlay, .overlay-txt:hover{
+.item-our:hover, .overlay, .item-our:focus, .overlay, .overlay-txt:hover{
 transform: translateY(0);
 }
 .item-our:hover {
