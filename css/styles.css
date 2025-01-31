@@ -383,11 +383,11 @@ transition-property: box-shadow;
 transition-duration: 250ms;
 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.item-our:hover .overlay,
+.item-our:hover .overlay, 
 .item-our:hover .overlay-txt,
-.item-our:focus .overlay,
+.item-our:focus .overlay, 
 .item-our:focus .overlay-txt {
-  transform: translateY(0);
+    transform: translateY(0);
 }
 .item-our:hover {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
@@ -467,7 +467,7 @@ margin-bottom: 16px;
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  transition:  250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-list-fot{
   gap: 16px;
